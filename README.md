@@ -4,8 +4,7 @@
 
 
 ### Language
-<img src="https://img.shields.io/badge/Csharp-239120?style=for-the-badge&logo=csharp&logoColor=white">
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/Csharp-239120?style=for-the-badge&logo=csharp&logoColor=white"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
 
 ###
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marshmar&show_icons=true&theme=radical)
