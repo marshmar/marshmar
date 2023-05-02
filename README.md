@@ -5,6 +5,7 @@
 
 ### Language
 <img src="https://img.shields.io/badge/C sharp-239120?style=for-the-badge&logo=csharp&logoColor=white">
+<img src="https://img.shields.io/badge/cplusplus-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
 
 ###
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marshmar&show_icons=true&theme=radical)
