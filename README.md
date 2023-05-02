@@ -1,7 +1,7 @@
 ### I'm begginer programmer 👋
 
 ### Game Engine
-<img src="https://img.shields.io/badge/Csharp-#239120?style=for-the-badge&logo=기술스택아이콘&logoColor=black">
+<img src="https://img.shields.io/badge/Csharp-239120?style=for-the-badge&logo=기술스택아이콘&logoColor=black">
 
 ### Language
 
