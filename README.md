@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Velog-11B48A?style=for-the-badge&logo=velog&logoColor=white"/>
   </a>
 <a href="https://solved.ac/profile/goekazld123">
-  <img src="https://img.shields.io/badge/Solved.ac-1e1e1e?style=for-the-badge&logo=acm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Solved.ac-1e1e1e?style=for-the-badge"/>
 </a>
 </p>
 
