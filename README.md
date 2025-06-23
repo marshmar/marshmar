@@ -8,9 +8,9 @@
   <a href="https://velog.io/@marshmar">
     <img src="https://img.shields.io/badge/Velog-marshmar?style=for-the-badge&logo=velog&logoColor=white"/>
   </a>
-  <a href="https://solved.ac/profile/marshmar">
-    <img src="https://img.shields.io/badge/Solved.ac-goekazld123?style=for-the-badge&logo=acm&logoColor=white"/>
-  </a>
+<a href="https://solved.ac/profile/goekazld123">
+  <img src="http://mazassumnida.wtf/api/generate_badge?boj=marshmar" />
+</a>
 </p>
 
 ---
