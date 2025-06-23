@@ -1,6 +1,6 @@
 ### I'm begginer programmer 👋
 
-<align="center">### Game Engine
+</h2 align="center"> Game Engine </h2>
 <img src="https://img.shields.io/badge/Unity-222324?style=for-the-badge&logo=unity&logoColor=white">
 
 ### Languages
