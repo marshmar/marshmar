@@ -11,10 +11,6 @@
 <img src="https://img.shields.io/badge/Csharp-222324?style=for-the-badge&logo=csharp&logoColor=white"> <img src="https://img.shields.io/badge/C++-222324?style=for-the-badge&logo=cplusplus&logoColor=white">
 
 ###
-<img src="https://github-readme-stats.vercel.app/api?username=marshmar&show_icons=true&theme=radical" width="450"/>
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marshmar&layout=compact&theme=radical" width="450"/>
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marshmar&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marshmar&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </div>
