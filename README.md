@@ -1,7 +1,7 @@
 <div align="center">   
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 ### I'm begginer programmer 👋
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=#d6ec8c&height=150&section=header&text=MarshMar&fontSize=30" />
+  
 ---
 ### Game Engine
 <img src="https://img.shields.io/badge/Unity-222324?style=for-the-badge&logo=unity&logoColor=white">
