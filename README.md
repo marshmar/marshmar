@@ -11,6 +11,7 @@
 ---
 ### Languages
 <img src="https://img.shields.io/badge/Csharp-222324?style=for-the-badge&logo=csharp&logoColor=white"> <img src="https://img.shields.io/badge/C++-222324?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="180"/>
 
 ---
 
@@ -18,7 +19,6 @@
 <div style="display: flex; justify-content: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=marshmar&show_icons=true&theme=radical" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marshmar&layout=compact&theme=radical" height="180"/>
-   <img src="	https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="180"/>
 </div>
 
 </div>
