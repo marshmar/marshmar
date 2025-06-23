@@ -12,6 +12,17 @@
 
 ---
 
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=marshmar&show_icons=true&theme=radical" height="180"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marshmar&layout=compact&theme=radical" height="180"/>
+    </td>
+  </tr>
+</table>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marshmar&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marshmar&layout=compact&theme=radical)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/marshmar/marshmar))
 </div>
