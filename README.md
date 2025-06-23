@@ -8,7 +8,6 @@
 
 ###
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marshmar&show_icons=true&theme=radical)
-[![hoejun1208 github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=marshmar&show_icons=true&hide_border=true&title_color=8e72dc&icon_color=004386&layout=compact)](https://github.com/hoejun1208)
 <!--
 **marshmar/marshmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
