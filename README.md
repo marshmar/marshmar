@@ -6,9 +6,6 @@
 
 <p align="center">
   <a href="https://velog.io/@marshmar">
-    <img src="https://img.shields.io/badge/Velog-11B48A?style=for-the-badge&logo=velog&logoColor=white"/>
-  </a>
-  <a href="https://velog.io/@marshmar">
   <img src="https://img.shields.io/badge/marshmar's%20Velog-11B48A?style=for-the-badge&logo=velog&logoColor=white"/>
   </a>
 </p>
