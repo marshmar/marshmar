@@ -1,6 +1,6 @@
 <div align="center">   
 ### I'm begginer programmer 👋
-<img src="https://capsule-render.vercel.app/api?type=rect&color=#d6ec8c&height=150&section=header&text=MarshMar&fontSize=30" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=#d6ec8c&height=150&section=header&text="MarshMar"&fontSize=30" />
   
 ---
 ### Game Engine
