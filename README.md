@@ -29,6 +29,10 @@
 ### Collaboration Tools
 <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white">
 
+### Certificate
+🧾JLPT N2 
+🧾JLPT N3
+
 ---
 ### Algorithm
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=goekazld123)](https://solved.ac/goekazld123/)
